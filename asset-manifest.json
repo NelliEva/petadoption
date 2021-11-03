@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/petadoption/static/css/main.be9556c7.chunk.css",
+    "main.js": "/petadoption/static/js/main.59e6471e.chunk.js",
+    "main.js.map": "/petadoption/static/js/main.59e6471e.chunk.js.map",
+    "runtime-main.js": "/petadoption/static/js/runtime-main.9ecb0d18.js",
+    "runtime-main.js.map": "/petadoption/static/js/runtime-main.9ecb0d18.js.map",
+    "static/js/2.d96093b5.chunk.js": "/petadoption/static/js/2.d96093b5.chunk.js",
+    "static/js/2.d96093b5.chunk.js.map": "/petadoption/static/js/2.d96093b5.chunk.js.map",
+    "index.html": "/petadoption/index.html",
+    "static/css/main.be9556c7.chunk.css.map": "/petadoption/static/css/main.be9556c7.chunk.css.map",
+    "static/js/2.d96093b5.chunk.js.LICENSE.txt": "/petadoption/static/js/2.d96093b5.chunk.js.LICENSE.txt",
+    "static/media/passport.995ff61d.jpg": "/petadoption/static/media/passport.995ff61d.jpg",
+    "static/media/paw.1f7bf6a0.png": "/petadoption/static/media/paw.1f7bf6a0.png",
+    "static/media/pup1.2.0fc03918.jpg": "/petadoption/static/media/pup1.2.0fc03918.jpg",
+    "static/media/pup1.3.db8fe0f0.jpg": "/petadoption/static/media/pup1.3.db8fe0f0.jpg",
+    "static/media/pup1.78161b46.jpg": "/petadoption/static/media/pup1.78161b46.jpg",
+    "static/media/pup2.71a185e2.jpg": "/petadoption/static/media/pup2.71a185e2.jpg",
+    "static/media/pup3.1158cd4d.jpg": "/petadoption/static/media/pup3.1158cd4d.jpg",
+    "static/media/pup4.df48e218.jpg": "/petadoption/static/media/pup4.df48e218.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ecb0d18.js",
+    "static/js/2.d96093b5.chunk.js",
+    "static/css/main.be9556c7.chunk.css",
+    "static/js/main.59e6471e.chunk.js"
+  ]
+}
